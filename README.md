@@ -69,7 +69,9 @@ GPT-3.5 模型可以理解和生成自然语言或代码。在 GPT-3.5 系列中
 - [x] 支持流式输出，让等待不再焦虑；
 - [x] 在使用prompt时，可以调整模型、temperature等参数；
 - [x] 支持自定义API BaseUrl；
+- [x] 支持更多的OpenAI模型(20240419)
 - [ ] 支持prompt管理：新建和保存prompt及参数，方便prompt的不断优化；
+- [ ] 增加对话框聊天功能
 - [ ] 搭建prompt集市：prompt的共享和交流；
 - [ ] 接入claude系列模型
 - [ ] 接入Gemini模型
