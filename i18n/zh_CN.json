@@ -1,23 +1,22 @@
 {
-    "addTopBarIcon": "思源AI",
-    "cancel": "取消",
-    "save": "保存",
-    "byeMenu": "再见，菜单！",
-    "helloPlugin": "你好，插件！",
-    "byePlugin": "再见，插件！",
-    "showDialog": "弹出一个对话框",
-    "removedData": "数据已删除",
-    "confirmRemove": "确认删除 ${name} 中的数据？",
-    "insertEmoji": "插入表情",
-    "removeSpace": "移除空格",
-    "getTab": "在日志中打印出已打开的所有自定义页签",
-    "name": "思源",
-    "blockMenuTitle":"文本生成",
-    "aiDialogTitle":"文本生成",
-    "hello": {
-        "makesure": "请阅读<a href=\"https://github.com/Lizhen0628/siyuan-ai\">官方教程</a>, 确保自己已经理解了插件的基本使用流程。"
-    },
-    "hintTitle":"其他",
-    "hintDesc":"大模型转发服务提供商OneApi:<a href='https://oneapi.geeksphere.online'>🔗 OneApi</a><br>海外APP账号商店:<a href='https://shop.geeksphere.online'>💻 海外APP账号商店</a>"
-
+  "addTopBarIcon": "思源AI",
+  "cancel": "取消",
+  "save": "保存",
+  "byeMenu": "再见，菜单！",
+  "helloPlugin": "你好，插件！",
+  "byePlugin": "再见，插件！",
+  "showDialog": "弹出一个对话框",
+  "removedData": "数据已删除",
+  "confirmRemove": "确认删除 ${name} 中的数据？",
+  "insertEmoji": "插入表情",
+  "removeSpace": "移除空格",
+  "getTab": "在日志中打印出已打开的所有自定义页签",
+  "name": "思源",
+  "blockMenuTitle": "文本生成",
+  "aiDialogTitle": "文本生成",
+  "hello": {
+    "makesure": "请阅读<a href=\"https://github.com/Lizhen0628/siyuan-ai\">官方教程</a>, 确保自己已经理解了插件的基本使用流程。"
+  },
+  "hintTitle": "其他",
+  "hintDesc": "大模型转发服务提供商OneApi:<a href='https://oneapi.geeksphere.online'>🔗 OneApi</a><br>海外APP账号商店:<a href='https://shop.geeksphere.online'>💻 海外APP账号商店</a>"
 }
